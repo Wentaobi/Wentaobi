@@ -42,17 +42,16 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
 
 - 👨🏽‍💻 I’m currently working on Private [Full Stack Project](https://github.gatech.edu/CS6400-OMSCS-2020-01-Spring/CS6400-2020-01-Team067), include Front end web design, html+css+php, back end database design, SQL+python;
 - 🌱 I’m currently learning Algorithms and C++ Design Patterns; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/Wentaonaiidu/A-POP) 🤝;
+- 👯 I’m willing to contribute some open source peoject in community as volunteer 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- 👨 Single available 
 - 📫 How to reach me: biwentaofrank@gmail.com;
 - 📝[Resume](https://www.linkedin.com/in/wentaobi/)
 
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
