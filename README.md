@@ -40,8 +40,8 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [Full Stack Project] Private repository: (https://github.gatech.edu/CS6400-OMSCS-2020-01-Spring/CS6400-2020-01-Team067);
-- 🌱 I’m currently learning Algorithms and C++; 
+- 👨🏽‍💻 I’m currently working on Private [Full Stack Project](https://github.gatech.edu/CS6400-OMSCS-2020-01-Spring/CS6400-2020-01-Team067), include Front end web design, html+css+php, back end database design, SQL+python;
+- 🌱 I’m currently learning Algorithms and C++ Design Patterns; 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/Wentaonaiidu/A-POP) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
