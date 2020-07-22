@@ -34,20 +34,20 @@
 
 <br />
 
-Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, currently, I'm working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy nice food, sports and traveling.
+Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, currently, I'm currently working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), previously worked in 👨🏽‍💻 [@Nexteer Automotive](https://www.nexteer.com/). I finished my master degree of Electrical and Computer Engineering at [@Detroit Mercy](https://www.udmercy.edu/) and I completed second master of Computer Science degree at 👨🏽‍💼 [@Georgia Tech](https://www.gatech.edu/). Beside's programming, I enjoy nice food, sports and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/Wentaonaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
+- 🌱 I’m currently learning Algorithms and C++; 
 - 👯 I’m looking to collaborate on [A-POP](https://github.com/Wentaonaiidu/A-POP) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📫 How to reach me: biwentaofrank@gmail.com;
+- 📝[Resume](https://www.linkedin.com/in/wentaobi/)
 
 **Languages and Tools:**  
 
