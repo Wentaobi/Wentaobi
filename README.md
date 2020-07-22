@@ -30,7 +30,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Wentaonaiidu.Wentaonaiidu)
 <br/>
 
-Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), previously worked in 👨🏽‍💻 [@Nexteer Automotive](https://www.nexteer.com/) as Autonomous Steering Engineer. I finished my master degree of Electrical and Computer Engineering at [@Detroit Mercy](https://www.udmercy.edu/) and I completed second master of Computer Science degree at 👨🏽‍💼 [@Georgia Tech](https://www.gatech.edu/). Beside's programming, I enjoy nice food, sports and traveling.
+Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), previously worked in 👨🏽‍💻 [@Nexteer Automotive](https://www.nexteer.com/) as Autonomous Steering Engineer. I finished my master degree of Electrical and Computer Engineering at [@Detroit Mercy](https://www.udmercy.edu/) and I'm completing second master of Computer Science degree at 👨🏽‍💼 [@Georgia Tech](https://www.gatech.edu/). Beside's programming, I enjoy nice food, sports and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -41,7 +41,7 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
 - 👯 I’m willing to contribute some open source peoject in community as volunteer 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- 👨 Single available;
+- 👨 码农, Single available;
 - 📫 How to reach me: biwentaofrank@gmail.com;
 - 📝[Resume](https://www.linkedin.com/in/wentaobi/)
 
@@ -54,8 +54,6 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-
 
 ![Wentao's github stats](https://github-readme-stats.vercel.app/api?username=Wentaobi&show_icons=true&hide_border=true)
 
