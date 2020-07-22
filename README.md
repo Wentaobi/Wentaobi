@@ -41,7 +41,7 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
 - 👯 I’m willing to contribute some open source peoject in community as volunteer 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- 👨 Single available 
+- 👨 Single available;
 - 📫 How to reach me: biwentaofrank@gmail.com;
 - 📝[Resume](https://www.linkedin.com/in/wentaobi/)
 
