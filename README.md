@@ -2,29 +2,32 @@
 
 <br/>
 
-<a href="https://discord.gg/qUbApEc">
-  <img align="left" alt="Wentao's Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+<a href="https://user.qzone.qq.com/649549603/main">
+  <img align="left" alt="Wentao's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/tencentqq.svg" />
 </a>
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Wentao Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://www.zhihu.com/people/bi-wen-tao-76">
+  <img align="left" alt="Wentao Bi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/zhihu.svg" />
 </a>
-<a href="https://www.linkedin.com/in/Wentaonaiidu/">
+<a href="https://twitter.com/bi_wentao">
+  <img align="left" alt="Wentao Bi | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/wentaobi/">
   <img align="left" alt="Wentao's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/Wentaonaiidu">
-  <img align="left" alt="Wentao's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://weibo.com/3160118240/profile?topnav=1&wvr=6&is_all=1">
+  <img align="left" alt="Wentao's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/sinaweibo.svg" />
 </a>
-<a href="https://www.instagram.com/Wentaonaiidu/">
+<a href="https://www.instagram.com/wentaobi/">
   <img align="left" alt="Wentao's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="https://www.reddit.com/user/MostAd1399/">
   <img align="left" alt="Wentao's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/Wentaonaiidu/">
+<a href="https://leetcode.com/biwentaofrank/">
   <img align="left" alt="Wentao's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
-<a href="https://www.codechef.com/users/Wentaonaidu">
-  <img align="left" alt="Wentao's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://www.youtube.com/channel/UC_lYOueyv1G_8pVK3yBKCfw?view_as=subscriber">
+  <img align="left" alt="Wentao's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Wentaonaiidu.Wentaonaiidu)
