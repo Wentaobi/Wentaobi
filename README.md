@@ -1,5 +1,7 @@
 ### Hey 👋🏽, I'm [Wentao!](https://wentaobi.github.io/) 
+
 <br/>
+
 <a href="https://user.qzone.qq.com/649549603/main">
   <img align="left" alt="Wentao's QQ" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/tencentqq.svg" />
 </a>
@@ -27,11 +29,17 @@
 <a href="https://www.youtube.com/channel/UC_lYOueyv1G_8pVK3yBKCfw?view_as=subscriber">
   <img align="left" alt="Wentao's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/youtube.svg" />
 </a>
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Wentaonaiidu.Wentaonaiidu)
+
 <br />
+
 Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), previously worked in 👨🏽‍💻 [@Nexteer Automotive](https://www.nexteer.com/) as Autonomous Steering Engineer. I finished my master degree of Electrical and Computer Engineering at [@Detroit Mercy](https://www.udmercy.edu/) and I completed second master of Computer Science degree at 👨🏽‍💼 [@Georgia Tech](https://www.gatech.edu/). Beside's programming, I enjoy nice food, sports and traveling.
+
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  
 **Talking about Personal Stuffs:**
+
 - 👨🏽‍💻 I’m currently working on Private [Full Stack Project](https://github.gatech.edu/CS6400-OMSCS-2020-01-Spring/CS6400-2020-01-Team067), include Front end web design, html+css+php, back end database design, SQL+python;
 - 🌱 I’m currently learning Algorithms and C++ Design Patterns; 
 - 👯 I’m willing to contribute some open source peoject in community as volunteer 🤝;
@@ -49,6 +57,7 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
 
