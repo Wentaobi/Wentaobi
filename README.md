@@ -34,7 +34,7 @@
 
 <br />
 
-Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreativeCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
+Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, currently, I'm working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy nice food, sports and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
@@ -65,6 +65,6 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, currently, I'm a Community T
 
 
 
-![Wentao's github stats](https://github-readme-stats.vercel.app/api?username=Wentaonaiidu&show_icons=true&hide_border=true)
+![Wentao's github stats](https://github-readme-stats.vercel.app/api?username=Wentaobi&show_icons=true&hide_border=true)
 
 
