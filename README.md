@@ -36,7 +36,7 @@ Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Aut
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on Private [Full Stack Project](https://github.gatech.edu/CS6400-OMSCS-2020-01-Spring/CS6400-2020-01-Team067), include Front end web design, html+css+php, back end database design, SQL+python;
+- 👨🏽‍💻 I’m currently working on Private [Full Stack Project](https://github.gatech.edu/CS6400-OMSCS-2020-01-Spring/CS6400-2020-01-Team067), include Front end web design, html+css+php, back end database design, SQL+python based on Apache server;
 - 🌱 I’m currently learning Algorithms and C++ Design Patterns; 
 - 👯 I’m willing to contribute some open source peoject in community as volunteer 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
