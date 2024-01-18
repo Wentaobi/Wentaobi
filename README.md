@@ -30,7 +30,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=Wentaobi.Wentaobi)
 <br/>
 
-Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in Autonomous Driving company  🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/), previously worked in 👨🏽‍💻 [@Nexteer Automotive](https://www.nexteer.com/) as Autonomous Steering Engineer. I finished my master degree of Electrical and Computer Engineering at [@Detroit Mercy](https://www.udmercy.edu/) and I'm completing second master of Computer Science degree at 👨🏽‍💼 [@Georgia Tech](https://www.gatech.edu/). Beside's programming, I enjoy nice food, sports and traveling.
+Hi, I'm Wentao Bi, a Software Engineer 🚀 in USA, I'm currently working in AI computing company at 🙍🏽‍♂️ [@NVIDIA](https://www.nvidia.com/) , previously worked in 👨🏽‍💻 [@Nexteer Automotive](https://www.nexteer.com/)  and 🙍🏽‍♂️ [@APTIV,formerly Delphi, GM](https://www.aptiv.com/) as Autonomous Steering Engineer. I finished my bachlor & master degree of Electrical and Computer Engineering at [@Detroit Mercy](https://www.udmercy.edu/) and I'm completing second master of Computer Science degree at 👨🏽‍💼 [@Georgia Tech](https://www.gatech.edu/). Beside's programming, I enjoy nice food, sports and traveling.
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
